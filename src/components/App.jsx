@@ -76,16 +76,16 @@ function App() {
         if (res) {
           setLoggedIn(true);
           setIsSuccess(true);
-          handlerInfoTooltip();
+          // handlerInfoTooltip();
           navigate("/sign-in", { replace: true });
         }
       })
       .catch((error) => {
         setIsSuccess(false);
-        handlerInfoTooltip();
+        // handlerInfoTooltip();
         console.log(`Ошибка: ${error}`);
       })
-      .finally(() => { });
+      .finally(() => handlerInfoTooltip());//после замечаний ревьюера
   }
 
   // функция для авторизаци пользователя

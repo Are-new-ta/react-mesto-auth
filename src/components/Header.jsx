@@ -13,7 +13,7 @@ function Header({ onSinOut, onShowUser, userEmail, onOpenBurgerMenu, onHideBurge
               <img className='header__logo-react'
                 src={logo}
                 alt='логотип проекта Место' />
-              <Link to={'sign-in'} className='header__link'>Войти</Link>
+              <Link to='/sign-in' className='header__link'>Войти</Link>
             </div>} />
 
         <Route
@@ -23,7 +23,7 @@ function Header({ onSinOut, onShowUser, userEmail, onOpenBurgerMenu, onHideBurge
               <img className='header__logo-react'
                 src={logo}
                 alt='логотип проекта Место' />
-              <Link to={'sign-up'} className='header__link'>Регистрация</Link>
+              <Link to='/sign-up' className='header__link'>Регистрация</Link>
             </div>} />
 
         <Route
