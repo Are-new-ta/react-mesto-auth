@@ -133,9 +133,4 @@ https://www.figma.com/file/5H3gsn5lIGPwzBPby9jAOo/Sprint-14-RU?node-id=0%3A1
   <summary><b><i><b><i>Окно предварительной загрузки страницы</i></b></i></b></summary>
     <img width="500" src="https://user-images.githubusercontent.com/108838349/216913189-b1a3c13c-1f28-4291-856e-a43fa92ce29f.gif" alt="Гиф с демонстрацией окна предварительной загрузки страницы">
  </details>
-
-<details><summary><b><i>Страница 404</i></b> (<a href="#problem-routes"><b>не будет видна</b></a> на  Github Pages)</summary>
-     <img width="500" src="https://user-images.githubusercontent.com/108838349/215304244-bd854ae2-0066-416d-a516-3b29f4028363.gif">
- </details>
-
 <br>
